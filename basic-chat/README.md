@@ -8,6 +8,8 @@
     
     ```pip install -r requirements.txt```
 
+- Update config.yaml in needed
+
 ## Run for testing
     
 ```
